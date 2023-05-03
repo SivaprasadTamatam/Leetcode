@@ -9,3 +9,5 @@
 - [1. Two Sum](https://leetcode.com/problems/two-sum/) Go/Golang and C++ solutions implemented
 
 - [1822. Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/description/) Go/Golang and C++ solutions implemented
+
+- [2215. Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) Go/Golang and C++ solutions implemented
