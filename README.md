@@ -15,3 +15,5 @@
 - [649. Dota2 Senate](https://leetcode.com/problems/dota2-senate/description/) Go/Golang and C++ solutions implemented
 
 - [1456. Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/description/) Go/Golang and C++ solutions implemented
+
+- [1572. Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/description/) Go/Golang and C++ solutions implemented
